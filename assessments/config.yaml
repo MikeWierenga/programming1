@@ -1,3 +1,4 @@
 datadir: 'data/KNMI.txt.tsv'
+data3: '../data/assignment3/'
 assignement1: '../data/eeg_data.csv'
 assignment2: '../data/glucose.json'
